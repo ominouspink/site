@@ -1,5 +1,5 @@
     function voorbeeldPagina(){
         document.getElementById("header").onclick = function () {
-        location.href = "../voorbeeld.html";
+        location.href = "voorbeeld.html";
     }
     }
